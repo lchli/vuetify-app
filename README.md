@@ -3,6 +3,7 @@
 ## Project setup
 
 ```
+//yarn global bin的结果路径添加到系统环境变量中。
 cd projectroot
 vue add cordova
 ```

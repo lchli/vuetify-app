@@ -7,6 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "android": "cordova build android --debug",
+    "ios": "cordova run ios --l -- --target=\"EMULATOR_TARGET_VALUE_IN_MY_SYSTEM\"",
     "androidRelease": "cordova build android --release -- --packageType=apk"
   },
   "keywords": [
