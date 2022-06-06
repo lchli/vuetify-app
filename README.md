@@ -1,6 +1,11 @@
 # my-twt
 
 ## Project setup
+
+```
+cd projectroot
+vue add cordova
+```
 ```
 yarn install
 ```
